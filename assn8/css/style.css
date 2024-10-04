@@ -1,0 +1,14 @@
+.myborder{
+    border: 2px solid black;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.btn{
+    
+}
+.container{
+    width: 60%;
+    height: 80%;
+}
